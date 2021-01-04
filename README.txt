@@ -66,7 +66,7 @@ C. Workflow
 D. Helper files
 	1. preprocess_query.py - This file is used to preprocess the user query before it is embedded by the USE model.
 	
-* GitHub link for the entire project- https://github.com/anup00900/datamining_project
+* GitHub link for the entire project- https://github.com/AmeyaKaranjkar/Similarity-Retrieval
 
 
 
